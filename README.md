@@ -20,7 +20,8 @@ Complete the following steps:
     JPM's competitors are Citibank, Wellsfargo, BOA, Goldman Sachs. 
 
     * How does this company use technology to their advantage? Why are they considered a FinTech company?
-    
+    JPM enables its customers to send instant JPM coins to another customer
+    JPOM develops the platform
 
     * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
     
